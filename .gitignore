@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Large Files / Data
+models/
+labels/
+
+# ROS 2 generated directories
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+EOF
